@@ -1,1 +1,1 @@
-This repo contains all the files used in the Hands-On Data Analytics series conducted at Juno School of Business
+This repository contains all the source files used in the classes conducted at Juno School of Business by Souvik Roy.
