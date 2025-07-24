@@ -1,1 +1,1 @@
-This repository contains all the source files used in the classes conducted at Juno School of Business by Souvik Roy.
+This repository contains all the source files used in the classes conducted at Juno
